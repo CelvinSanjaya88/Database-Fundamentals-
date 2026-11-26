@@ -13,6 +13,9 @@ this is my week 5 tutorial ERD diagram question 2:
 this is my week 5 tutorial ERD diagram question 5:
 <img width="632" height="374" alt="image" src="https://github.com/user-attachments/assets/8cecbd15-2f05-4555-b752-ae68324c1f6f" />
 
+THIS IS MY WEEK 6 ERD DIAGRAM
+<img width="887" height="375" alt="Screenshot 2026-11-26 150221" src="https://github.com/user-attachments/assets/fa67889a-5311-422d-8629-2b5e4256a877" />
+
 
 
 
